@@ -1,8 +1,8 @@
-- 🔭 Cursando Desenvolvimento Back-End
-- 🌱 Atualmente estou estudando JavaScript, React, TypeScript, HTML5, entre outras linguagens ...
-- 🤔 Procuro Estágio na minha área ...
-- 😁 Pronomes: Ele/Dele
-## Oi eu sou Willia Silva, Desenvolvedor Back-End!
+🔭 Studying Back-End Development
+- 🌱 I'm currently studying JavaScript, React, TypeScript, HTML5, among other languages...
+- 🤔 I'm looking for an internship in my area...
+- 😁 Pronouns: He/His
+## Hi I'm Willia Silva, Back-End Developer!
 <div align="center">
 
 <div style="display: inline_block"><br>
