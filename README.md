@@ -1,6 +1,11 @@
 # 👨‍💻 Hi, I'm Willia Silva  
 
-💻 **Back-End Developer | Cybersecurity Enthusiast | Pentester in Training**  
+💻 Back-End Developer | Cybersecurity Enthusiast | Aspiring Pentester
+
+🌐 Website: https://winsec.tech  
+💼 LinkedIn: https://www.linkedin.com/in/willia-silva-96a40b1b1/
+📧 Contact: circuitbreak2020@gmail.com
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Back-End+Developer;Cybersecurity+and+Pentest+Student;Web+Developer+%7C+Problem+Solver;Always+learning+new+technologies" alt="Typing SVG" />
@@ -9,12 +14,15 @@
 ---
 
 ## 🚀 About Me
-- 🔭 Focused on **Back-End Development** and **Web Security**  
-- 🌱 Currently learning **JavaScript, TypeScript, React, Node.js, NestJS, and Linux Security**  
-- 🧑‍💻 Interested in **Pentesting, Vulnerability Analysis, and Secure Systems Architecture**  
-- 🎯 Goal: Become an **expert in Information Security** while mastering **Web Development**  
-- 🤝 Open to **internships, collaborations, and freelance projects**  
-- 😁 Pronouns: **He/Him**  
+I’m a **Back-End Developer** with a strong interest in **Cybersecurity and Web Application Security**.
+
+- 🔭 Focused on building **secure, scalable back-end systems**
+- 🌱 Currently studying **JavaScript, TypeScript, React, Node.js, NestJS, and Linux Security**
+- 🔐 Interested in **Pentesting, Vulnerability Analysis, and Secure System Architecture**
+- 🎯 Career goal: Become an **Information Security specialist** with solid expertise in **Web Development**
+- 🤝 Open to **internships, collaborations, and freelance opportunities**
+- 😁 Pronouns: **He/Him**
+
 
 ---
 
@@ -37,9 +45,9 @@
 ---
 
 ## 📂 Featured Projects
-- 🔒 **Cybersecurity Lab** – Virtual lab for pentest experiments  
-- 🛍️ **E-commerce Platform** – Full-stack online store with payment & shipping integrations  
-- 🤖 **Automation Scripts** – Bash & Node.js scripts for network monitoring and security testing  
+- 🔒 **Cybersecurity Lab** – Virtual environment for pentesting, vulnerability testing, and security automation  
+- 🛍️ **E-commerce Platform** – Full-stack solution with payment gateways, shipping integration, and secure authentication  
+- 🤖 **Automation Scripts** – Bash & Node.js tools for monitoring, automation, and security testing 
 
 ---
 
