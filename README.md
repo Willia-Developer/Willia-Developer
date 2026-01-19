@@ -3,7 +3,7 @@
 💻 Back-End Developer | Cybersecurity Enthusiast | Aspiring Pentester
 
 🌐 Website: https://winsec.tech  
-💼 LinkedIn: https://www.linkedin.com/in/willia-silva-96a40b1b1/
+💼 LinkedIn: https://www.linkedin.com/in/willia-silva-96a40b1b1/ 
 📧 Contact: circuitbreak2020@gmail.com
 
 
